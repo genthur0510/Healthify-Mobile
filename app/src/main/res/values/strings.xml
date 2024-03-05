@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Healthify</string>
+    <string name="about_me">About Me</string>
+    <string name="disease_name">Disease Name</string>
+    <string name="description">Description</string>
+    <string name="indication_headline">Indication</string>
+    <string name="indication">Indication may occur: </string>
+    <string name="treatment_headline">Treatment</string>
+    <string name="treatment">Treatment: </string>
+    <string name="profile_name">Genthur Teges Aryoseto</string>
+    <string name="profile_email">garyoseto@gmail.com</string>
+
+    <string-array name="data_name">
+        <item>Cough</item>
+        <item>Anemia</item>
+        <item>Chickenpox</item>
+        <item>Diarrhea</item>
+        <item>Diabetes</item>
+        <item>Flu (Influenza)</item>
+        <item>Fever</item>
+        <item>Cancer</item>
+        <item>Asthma</item>
+        <item>Stroke</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Cough is the body\'s natural response to irritation in the respiratory tract. It can be caused by viral infections, allergies, or exposure to air pollutants. Prolonged or severe coughing requires medical attention. It is often managed with rest, plenty of fluids, and cough medicine.</item>
+        <item>Anemia is a condition in which the body lacks enough red blood cells or hemoglobin. This can lead to fatigue, dizziness, and pale skin. Causes include iron deficiency, genetic disorders, or blood loss. Treatment may involve iron supplements, blood transfusions, or addressing the underlying cause.</item>
+        <item>Chickenpox is a viral infection characterized by red, itchy bumps or blisters all over the body. It commonly occurs in children and can be prevented through vaccination. Treatment usually focuses on relieving itching and preventing secondary infections.</item>
+        <item>Diarrhea is a condition in which a person experiences frequent, loose bowel movements. It is typically caused by viral or bacterial infections, unhealthy food, or stress. Dehydration is a common complication of severe diarrhea. Treatment involves fluid and electrolyte replacement and easily digestible foods.</item>
+        <item>Diabetes is a condition in which the body cannot regulate blood sugar levels properly. It can be caused by insulin resistance or insufficient insulin production. Long-term complications include organ damage and heart disease. Managing diabetes involves a healthy diet, regular exercise, blood sugar monitoring, and prescribed medication.</item>
+        <item>Flu is a viral infection that affects the respiratory system. Symptoms include fever, runny nose, cough, and muscle aches. Annual vaccination can help prevent flu infections. Treatment typically involves rest, plenty of fluids, and over-the-counter symptom relief medication.</item>
+        <item>Fever is an increase in body temperature that occurs as a response to infection or other illnesses. It is the body\'s natural way of fighting off infections. High or prolonged fever requires medical attention. Fever treatment usually involves staying hydrated, resting, and using fever-reducing medications.</item>
+        <item>Cancer is a condition in which abnormal cells in the body grow uncontrollably. It can occur in various parts of the body and can cause symptoms such as pain, weight loss, and fatigue. Cancer treatment depends on the type and may include surgery, chemotherapy, radiation therapy, or targeted therapy.</item>
+        <item>Asthma is a chronic respiratory condition characterized by inflammation and narrowing of the airways. It can cause difficulty breathing, coughing, and wheezing. Proper management includes the use of inhalers and avoiding triggers. Additional treatment may be needed to prevent severe asthma attacks.</item>
+        <item>A stroke occurs when blood flow to the brain is disrupted, causing damage to brain cells. Symptoms include weakness or paralysis on one side of the body, difficulty speaking, and loss of coordination. Immediate treatment is crucial to minimize brain damage. Treatment may involve the use of blood-thinning medications, physical therapy, and lifestyle changes to prevent recurrent strokes.</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://d1vbn70lmn1nqe.cloudfront.net/prod/wp-content/uploads/2022/01/06111816/Mulai-Kenali-Jenis-Batuk.jpg</item>
+        <item>https://riseandshine.childrensnational.org/wp-content/uploads/2023/09/Teen-girl-with-headache-feature.png</item>
+        <item>https://res.cloudinary.com/dk0z4ums3/image/upload/v1697454346/attached_image/6-gejala-cacar-air-yang-perlu-diketahui.jpg</item>
+        <item>https://d1bpj0tv6vfxyp.cloudfront.net/articles/528225_15-11-2020_17-58-48.jpeg</item>
+        <item>https://img-cdn.medkomtek.com/gI3-RXYeVSRgdvop2RYA_KWWIho=/0x0/smart/filters:quality(100):format(webp)/article/0FJ_hujLjhAi-JVfStt3w/original/xtqwarxi81g1f9z4eti38wq5ba28z0gc.png</item>
+        <item>https://res.cloudinary.com/dk0z4ums3/image/upload/v1625544954/attached_image/flu.jpg</item>
+        <item>https://res.cloudinary.com/dk0z4ums3/image/upload/v1516679685/attached_image/demam.jpg</item>
+        <item>https://res.cloudinary.com/dk0z4ums3/image/upload/v1595847672/attached_image/penyakit-kanker.jpg</item>
+        <item>https://res.cloudinary.com/dk0z4ums3/image/upload/v1700008777/attached_image/asma.png</item>
+        <item>https://res.cloudinary.com/dk0z4ums3/image/upload/v1647878568/attached_image/memahami-penyebab-stroke-dan-cara-pencegahannya.jpg</item>
+    </string-array>
+
+    <string-array name="data_indication">
+        <item> Persistent dry or productive cough.</item>
+        <item>Fatigue, paleness, and shortness of breath.</item>
+        <item>Itchy red blister-like rash.</item>
+        <item>Abdominal cramps, nausea, and frequent bowel movements.</item>
+        <item>Excessive thirst, frequent urination, and fatigue.</item>
+        <item>Fever, muscle aches, runny nose, and sore throat.</item>
+        <item>Increased body temperature, chills, and fatigue.</item>
+        <item>Unintentional weight loss, palpable lumps, and changes in the skin.</item>
+        <item>Difficulty breathing, chest tightness, and coughing.</item>
+        <item>Numbness or weakness in the face, arms, or legs, difficulty speaking, and confusion.</item>
+    </string-array>
+
+    <string-array name="data_treatment">
+        <item>Over-the-counter cough suppressants, staying hydrated, and resting.</item>
+        <item>Iron supplements, dietary changes, and blood transfusions in severe cases.</item>
+        <item>Antiviral medications, calamine lotion, and oatmeal baths for itch relief.</item>
+        <item>Oral rehydration solutions, avoiding certain foods, and medications to address underlying causes.</item>
+        <item>Insulin injections, oral medications, dietary modifications, and regular exercise.</item>
+        <item>Rest, staying hydrated, over-the-counter medications for symptom relief, and antiviral drugs in severe cases.</item>
+        <item>Rest, staying hydrated, over-the-counter fever reducers, and addressing underlying causes such as infections.</item>
+        <item>Surgery, chemotherapy, radiation therapy, targeted therapy, immunotherapy, and palliative care.</item>
+        <item>Inhalers (bronchodilators and corticosteroids), avoiding triggers, and allergy medications.</item>
+        <item>Clot-busting drugs (thrombolytics), clot removal procedures, rehabilitation therapy, and lifestyle changes to reduce risk factors.</item>
+    </string-array>
+</resources>

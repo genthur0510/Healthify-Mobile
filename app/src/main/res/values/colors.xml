@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mantis_green">#25a244</color>
+    <color name="kelly_green">#2dc653</color>
+    <color name="shamrock_green">#4ad66d</color>
+    <color name="light_greenish">#6ede8a</color>
+    <color name="light_green">#92e6a7</color>
+    <color name="light_sea_green">#b7efc5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">@android:color/black</color>
+</resources>
